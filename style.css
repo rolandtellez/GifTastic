@@ -1,0 +1,13 @@
+#gif-div {
+    width: 75%;
+    float: left;
+}
+
+#submit-div {
+    width: 25%;
+    float: right;
+}
+
+button {
+    margin: 10px;
+}
